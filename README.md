@@ -1,2 +1,2 @@
-# -E-Commerce-Sales-Analysis-Project-Project-Overview
-This project focuses on analyzing customer purchasing behavior using data science and exploratory data analysis (EDA) techniques. The analysis is performed on an e-commerce dataset containing 55,000 transaction records to identify patterns, trends, and actionable business insights.
+# powerbi-sales-dashboard
+This project presents a Sales Performance Dashboard developed using Power BI to analyze and visualize sales data. The dashboard provides insights into key business metrics such as total revenue, profit, number of orders, delivery performance, product category sales, regional distribution, and sales trends over time.
